@@ -1,0 +1,2 @@
+# tech_for_programming_and_training_NN
+tech_for_programming_and_training_NN
